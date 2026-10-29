@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "aml-report-generator"
+version = "0.1.0"
+description = "Automated periodic AML/CFT management report (Excel + summary) with data-quality checks."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Ara Avetisyan" }]
+dependencies = ["pandas>=2.0", "openpyxl>=3.1"]
+
+[project.optional-dependencies]
+dev = ["pytest>=7"]
+
+[project.scripts]
+aml-report = "aml_reports.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+aml_reports = ["*.yaml"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

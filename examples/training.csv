@@ -1,0 +1,81 @@
+employee_id,department,course,completed,score
+E001,IT,AML/CFT basics,yes,94
+E002,IT,AML/CFT basics,yes,74
+E003,Customer service,AML/CFT basics,yes,71
+E004,IT,AML/CFT basics,yes,93
+E005,Customer service,AML/CFT basics,yes,99
+E006,Operations,AML/CFT basics,yes,96
+E007,Customer service,AML/CFT basics,yes,72
+E008,Customer service,AML/CFT basics,yes,90
+E009,Operations,AML/CFT basics,yes,82
+E010,Operations,AML/CFT basics,yes,90
+E011,Customer service,AML/CFT basics,yes,85
+E012,IT,AML/CFT basics,yes,95
+E013,Operations,AML/CFT basics,yes,91
+E014,IT,AML/CFT basics,yes,78
+E015,Finance,AML/CFT basics,yes,77
+E016,Customer service,AML/CFT basics,yes,77
+E017,IT,AML/CFT basics,yes,85
+E018,Operations,AML/CFT basics,yes,85
+E019,Finance,AML/CFT basics,no,
+E020,Customer service,AML/CFT basics,yes,72
+E021,Finance,AML/CFT basics,yes,78
+E022,Finance,AML/CFT basics,yes,89
+E023,Operations,AML/CFT basics,yes,85
+E024,Finance,AML/CFT basics,yes,91
+E025,Customer service,AML/CFT basics,yes,91
+E026,Finance,AML/CFT basics,yes,84
+E027,Operations,AML/CFT basics,yes,98
+E028,Finance,AML/CFT basics,yes,72
+E029,Operations,AML/CFT basics,no,
+E030,Operations,AML/CFT basics,yes,96
+E031,IT,AML/CFT basics,yes,78
+E032,Customer service,AML/CFT basics,yes,72
+E033,Customer service,AML/CFT basics,yes,93
+E034,Finance,AML/CFT basics,yes,74
+E035,Finance,AML/CFT basics,yes,98
+E036,Finance,AML/CFT basics,yes,77
+E037,IT,AML/CFT basics,yes,82
+E038,Operations,AML/CFT basics,yes,100
+E039,IT,AML/CFT basics,yes,82
+E040,Customer service,AML/CFT basics,yes,83
+E041,Finance,AML/CFT basics,yes,73
+E042,Operations,AML/CFT basics,yes,80
+E043,IT,AML/CFT basics,yes,73
+E044,Customer service,AML/CFT basics,no,
+E045,Finance,AML/CFT basics,yes,78
+E046,IT,AML/CFT basics,yes,82
+E047,Operations,AML/CFT basics,no,
+E048,IT,AML/CFT basics,yes,94
+E049,Operations,AML/CFT basics,yes,78
+E050,Finance,AML/CFT basics,yes,90
+E051,Customer service,AML/CFT basics,no,
+E052,IT,AML/CFT basics,no,
+E053,Customer service,AML/CFT basics,yes,94
+E054,IT,AML/CFT basics,yes,98
+E055,IT,AML/CFT basics,yes,99
+E056,Customer service,AML/CFT basics,yes,93
+E057,IT,AML/CFT basics,yes,84
+E058,Customer service,AML/CFT basics,yes,90
+E059,IT,AML/CFT basics,yes,71
+E060,Customer service,AML/CFT basics,no,
+E061,IT,AML/CFT basics,yes,80
+E062,Finance,AML/CFT basics,yes,93
+E063,Finance,AML/CFT basics,yes,82
+E064,Finance,AML/CFT basics,yes,85
+E065,IT,AML/CFT basics,yes,73
+E066,Customer service,AML/CFT basics,yes,72
+E067,IT,AML/CFT basics,yes,87
+E068,Finance,AML/CFT basics,yes,94
+E069,Customer service,AML/CFT basics,yes,87
+E070,Operations,AML/CFT basics,yes,75
+E071,Operations,AML/CFT basics,yes,80
+E072,Finance,AML/CFT basics,yes,95
+E073,Operations,AML/CFT basics,yes,93
+E074,IT,AML/CFT basics,yes,83
+E075,Customer service,AML/CFT basics,yes,82
+E076,Operations,AML/CFT basics,yes,85
+E077,Finance,AML/CFT basics,yes,74
+E078,Customer service,AML/CFT basics,yes,72
+E079,Customer service,AML/CFT basics,yes,82
+E080,IT,AML/CFT basics,yes,83
